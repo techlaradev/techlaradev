@@ -7,7 +7,7 @@ Tenho experiência com **testes manuais** e estou em constante evolução em **a
 
 ## 🧪 Sobre mim
 
-- 🎯 QA Engineer júnior
+- 🎯 QA Engineer Pleno
 - 🔍 Perfil analítico, com forte foco em lógica e qualidade
 - 🧠 Gosto de entender regras de negócio, fluxos e possíveis falhas antes de executar os testes
 - 🚀 Em evolução contínua em automação e boas práticas de QA
