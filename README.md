@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Lara
+# 👋 Olá, eu sou a Lara!
 
 Sou **Quality Assurance Engineer** com foco em garantir qualidade, identificar riscos e melhorar a confiabilidade dos produtos.  
 Tenho experiência com **testes manuais** e estou em constante evolução em **automação de testes**, sempre buscando entender o problema antes de validar a solução.
