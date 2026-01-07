@@ -29,7 +29,7 @@ Tenho experiência com **testes manuais** e estou em constante evolução em **a
 ### Outros
 - Git & GitHub
 - Testes de API (validação de status, payload e regras)
-- Noções de SQL
+- SQL Intermediário
 - Documentação de testes e bugs
 
 ---
@@ -70,4 +70,4 @@ Evoluir como QA, aprofundando conhecimentos em:
 
 ---
 
-⭐ Fique à vontade para explorar os repositórios!
+⭐ Fique à vontade para explorar os repositórios! Sempre atualizo por aqui
