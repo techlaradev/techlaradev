@@ -1,73 +1,162 @@
-# 👋 Oii, eu sou a Lara!
+# 👋 Oi, eu sou a Lara Cardoso!
 
-Sou **Quality Assurance Engineer** com foco em garantir qualidade, identificar riscos e melhorar a confiabilidade dos produtos.  
-Tenho experiência com **testes manuais** e estou em constante evolução em **automação de testes**, sempre buscando entender o problema antes de validar a solução.
+Sou **Quality Assurance Engineer Plena** apaixonada por qualidade, automação e construção de soluções que ajudam times de QA a trabalhar de forma mais eficiente.
 
----
-
-## 🧪 Sobre mim
-
-- 🎯 QA Engineer Pleno
-- 🔍 Perfil analítico, com forte foco em lógica e qualidade
-- 🧠 Gosto de entender regras de negócio, fluxos e possíveis falhas antes de executar os testes
-- 🚀 Em evolução contínua em automação e boas práticas de QA
+Atuo com testes manuais e automatizados, sempre buscando unir visão de produto, engenharia e experiência do usuário para entregar software com mais qualidade e menos esforço operacional.
 
 ---
 
-## 🛠️ Conhecimentos e Ferramentas
+# 🚀 Sobre mim
 
-### Testes
-- Testes manuais
-- Testes exploratórios
-- Testes de regressão
-- Escrita e manutenção de casos de teste
-- Análise de cenários positivos, negativos e de borda
-
-### Automação
-- Cypress (E2E e testes de API – intermediário)
-
-### Outros
-- Git & GitHub
-- Testes de API (validação de status, payload e regras)
-- SQL Intermediário
-- Documentação de testes e bugs
+- 🎯 QA Engineer Plena
+- 🧪 Especialista em qualidade de software e validação de produtos digitais
+- 🤖 Entusiasta de IA aplicada à automação de testes
+- 🏗️ Interesse crescente em arquitetura de software e plataformas de QA
+- 📈 Em constante evolução em automação, acessibilidade e engenharia de qualidade
 
 ---
 
-## 📂 O que você vai encontrar neste GitHub
+# 🛠️ Stack Tecnológica
 
-- 📋 Casos de teste bem documentados
-- 🧪 Projetos de automação com Cypress
-- 🔗 Exemplos de testes de API
-- 📚 Estudos e anotações sobre qualidade de software
-- 🐞 Análises de cenários e possíveis falhas de produto
+## Quality Assurance
 
----
-
-## 🧠 Minha abordagem em QA
-
-- Qualidade não é apenas testar, é **prevenir problemas**
-- Priorizar testes com base em **risco e impacto**
-- Testar pensando no **usuário final**
-- Documentar de forma clara para facilitar comunicação com o time
+- Testes Manuais
+- Testes Exploratórios
+- Testes de Regressão
+- Testes Funcionais
+- Testes de API
+- Planejamento de Testes
+- Análise de Risco
+- Escrita de Casos de Teste
+- BDD (Behavior Driven Development)
 
 ---
 
-## 📈 Objetivo profissional
+## Automação
 
-Evoluir como QA, aprofundando conhecimentos em:
-- Estratégias de teste
-- Automação
-- Qualidade de processos
-- Melhoria contínua do produto
+### Front-end
+
+- Playwright
+- Cypress
+
+### Back-end
+
+- API Testing
+- Requests
+- Validação de Contratos
+- Validação de Regras de Negócio
+
+### Frameworks e Ferramentas
+
+- Pytest
+- Playwright
+- Coverage.py
+- Ollama
+- Git
 
 ---
 
-## 📫 Contato
+## Linguagens
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lara-ayne/
-- 📧 Email: aynecoorp@outlook.com
+- Python
+- SQL
+- JavaScript (test automation)
 
 ---
 
-⭐ Fique à vontade para explorar os repositórios! Sempre atualizo por aqui
+# 🤖 IA Aplicada à Qualidade
+
+Atualmente venho desenvolvendo soluções que unem Engenharia de Qualidade e Inteligência Artificial para acelerar atividades de QA.
+
+Principais interesses:
+
+- Geração automática de cenários
+- Geração de BDD
+- Geração de automação Playwright
+- Engenharia de prompts
+- LLMs locais com Ollama
+- Automação assistida por IA
+
+---
+
+# 🐞 Projetos em Destaque
+
+## 🐞 Test Plan Orchestrator
+
+Plataforma de aceleração de automação de testes baseada em IA.
+
+Fluxo principal:
+
+```text
+Steps
+ ↓
+Scenarios
+ ↓
+BDD
+ ↓
+Playwright
+ ↓
+Execution
+```
+
+Objetivos:
+
+- Reduzir esforço manual
+- Padronizar automações
+- Acelerar criação de cenários
+- Democratizar a automação
+
+---
+
+# 📂 O que você encontrará aqui
+
+- 🧪 Projetos de automação
+- 🤖 Ferramentas com IA para QA
+- 📝 Estudos de Playwright
+- 🔗 Testes de API
+- 📚 Estudos de Engenharia de Qualidade
+- 🏗️ Projetos focados em arquitetura de automação
+- 🚀 Experimentos e aceleradores para times de QA
+
+---
+
+# 🧠 Minha visão sobre Qualidade
+
+Acredito que qualidade não é apenas encontrar defeitos.
+
+Qualidade é:
+
+- Prevenir problemas
+- Reduzir riscos
+- Melhorar a experiência do usuário
+- Facilitar a evolução dos produtos
+- Criar processos sustentáveis para os times
+
+---
+
+# 📚 Atualmente estudando
+
+- Arquitetura para automação de testes
+- Estratégias de cobertura de testes
+- Playwright avançado
+- IA aplicada à Engenharia de Qualidade
+- Acessibilidade
+- Engenharia de Plataforma para QA
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+
+[linkedin.com/in/lara-ayne](https://www.linkedin.com/in/lara-ayne/)
+
+📧 E-mail
+
+aynecoorp@outlook.com
+
+---
+
+⭐ Obrigada pela visita!
+
+Estou sempre construindo, aprendendo e compartilhando conhecimento sobre Qualidade, Automação e IA aplicada ao mundo de QA.
